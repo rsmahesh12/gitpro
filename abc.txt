@@ -1,0 +1,4 @@
+welcome to git.
+I am practicing it for interview.
+I am sure i will succeed.
+
